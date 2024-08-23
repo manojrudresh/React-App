@@ -1,0 +1,25 @@
+.container{
+    height: 100vh;
+    background-image: linear-gradient(to right,#49c4ee,#6e87d6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 200px;
+}
+h1{
+    color: #fff;
+}
+.content{
+    text-align: center;
+}
+button{
+    background-color: #ffff;
+    color: #6e87d6;
+    padding: 10px;
+    font-weight: 500;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+}
